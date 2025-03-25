@@ -1,0 +1,14 @@
+# prt564_dataVis
+Practices
+Tasks
+T1. Refer to the Dollar-Kms spreadsheet shown on the previous page. Code the data manually into a Pandas dataframe.
+T2. Plot a scatterplot to visualise the distribution of all data points of the spreadsheet. Expected output:
+T3. Build a simple linear regression model based on the dataframe's data. Write down the linear regression equation. Also, visualise the regression line over the data points, such as shown below.
+T4. Build another simple linear regression model based on the dataframe's data, but this time set the intercept to 0 (since not driving any distance at all should incur zero cost in petrol). Write down the linear regression equation and visualise the 2nd regression line over the data points:
+T5. Finally, estimate the total petrol cost (in Dollars) for a 1,500km journey to Alice Springs. Compare the estimations made by both regression models.
+
+
+
+
+
+
